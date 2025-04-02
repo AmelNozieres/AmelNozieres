@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmelNozieres
+- 👋 Hi, I’m @AmalNozieres
 - 👀 I’m interested in Machine learning/Data science
 - 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on projects on tensorflow
