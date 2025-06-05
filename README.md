@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AmalNozieres
-- 👀 I’m interested in Machine learning/Data science
-- 🌱 I’m currently learning Tensorflow
-- 💞️ I’m looking to collaborate on projects on tensorflow
+- 👀 I’m an AI Builer
+- 🌱 I’m certificated in Tensorflow
 - 📫 How to reach me amel.nozieres@gmail.com
 
 <!---
